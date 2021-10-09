@@ -8,11 +8,11 @@
 <a href="#"><img title="lisa-mwol" src="https://img.shields.io/badge/lisa-mwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/farookser-v1"><img title="Author" src="https://img.shields.io/badge/Author-Hyper-Sir/lisa-mwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/farookser-v1"><img title="Author" src="https://img.shields.io/badge/Author-farookser-v1/lisa-mwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/farookser-v1">Hyper-sir</a> to make it public
+Project created by <a href="https://github.com/farookser-v1">farookser-v1</a> to make it public
     <br>
        | © |
         Reserved |
@@ -89,7 +89,7 @@ By establishing the Hyper, you are deemed to have accepted these responsibilitie
     
   [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![farookser-v1](https://i.imgur.com/chUNhnK.jpeg)](https://github.com/farookser-v1) |  [![hyper_sir](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) | [![farookser-v1](https://github.com/farookser-v1.png?size=100)](https://github.com/farookser-v1) 
 ----|----|----|----
-[farhan-dqz](https://github.com/farhan-dqz) | [Hyper-sir](https://github.com/farookser-v1) | [afnanplk](https://github.com/afnanplk) | [farookser-v1](https://github.com/farookser-v1) 
+[farhan-dqz](https://github.com/farhan-dqz) | [farookser-v1](https://github.com/farookser-v1) | [afnanplk](https://github.com/afnanplk) | [farookser-v1](https://github.com/farookser-v1) 
 Developer, Modifying as Public | Re-Developer, Bug Fixes, Modules, Commits |  Bug Fixes, Modules | Bug Fixes, Commits
   </div>
     
