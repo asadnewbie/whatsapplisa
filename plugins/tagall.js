@@ -78,3 +78,15 @@ module.exports = {
         return;
     },
 };
+Asena.addCommand(
+  { pattern: "vote ?(.*)", fromMe: true, desc: Lang.VOTE_DESC },
+  async (message, match) => {
+    const { msg, options, type } = await parseVote(message, match)
+    return await message.sendMessage(msg, options, type)
+  }
+)
+
+Asena.addCommand({ on: "vote", fromMe: false }, async (message, match) => {
+  const msg = await participateInVote(message)
+  if (msg) return await message.sendMessage(msg, { quoted: message.data })
+})
