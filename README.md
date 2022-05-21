@@ -1,14 +1,11 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+lisa-mwol+WA+Bot+repo;Created+by+farookser-v1+with+baileys;This+is+a+WhatsApp+UserBot;With+more+features)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+MBBS-f21+WA+Bot+repo;Created+by+ASAD-UR-REHMAN;This+is+a+WhatsApp+UserBot;With+more+features)](https://git.io/typing-svg)
 
- </a>
-  <img border-radius: 15px src="FAROOKSER.jpg" width="200" height="200"/>
-  <p align="center">
-<a href="#"><img title="lisa-mwol" src="https://img.shields.io/badge/lisa-mwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="lisa-mwol" src="https://st2.depositphotos.com/2225062/6216/v/450/depositphotos_62167919-stock-illustration-black-and-white-geometric-pattern.jpg?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/farookser-v1"><img title="Author" src="https://img.shields.io/badge/Author-farookser-v1/lisa-mwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/farookser-v1"><img title="Author" src="https://st.depositphotos.com/3134415/4867/v/110/depositphotos_48676673-stock-illustration-white-cartoon-skulls-on-black.jpg?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -50,31 +47,6 @@ $ cd lisa-mwol
 $ npm i
 $ node Fidha.js
 ```
-
-----
-
-  <p align="center">
-  <a href="httsp://github.com/farookser-v1/lisa-mwol">
-    
-<a href="https://github.com/farookser-v1/followers">
-<img src="https://img.shields.io/github/repo-size/farookser-v1/lisa-mwol?color=green&label=Repo%20total%20size&style=plastic">
-<p align="center">
-<a href="https://github.com/farookser-v1/followers"
-<img title="Followers" src="https://img.shields.io/github/followers/farookser-v1?color=blue&style=flat-square"></a>
-<a href="https://github.com/farookser-v1/lisa-mwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/farookser-v1/lisa-mwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/farookser-v1/lisa-mwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/farookser-v1/lisa-mwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/farookser-v1/lisa-mwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/farookser-v1/lisa-mwol?label=Watchers&color=blue&style=flat-square"></a>
-</p>
-
-## 📢 Guide
-Any doubt click wa logo👇
-    <br>
-<br>
-  <a href="https://wa.me/+527777143999"><img title="any doubt contact" src="https://img.shields.io/badge/any_doubt_contact-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
-  <div align="center">
-       
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farookser-v1&repo=lisa-mwol&theme=nightowl)](https://github.com/farookser-v1/lisa-mwol)
-  </div>
     
 ### ⚠️ Warning! 
 ```
